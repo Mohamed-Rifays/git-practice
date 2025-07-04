@@ -1,2 +1,2 @@
 console.log('hello')
-console.log('world new 123')
+console.log('world')
